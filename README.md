@@ -1,5 +1,7 @@
 # simple-code
 I have talent in lenguage python
+
+
 message = ('Hello World')
 nama = ('Xeyzo')
 usia = 7
