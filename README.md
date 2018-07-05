@@ -91,3 +91,7 @@ import json
 
 print(json.dumps(manusia))
 
+## Menggunakan Git di Pycharm
+- Membuka project yang sudah di clone di command 
+- Merubah file
+- Mengirim file ke Github
